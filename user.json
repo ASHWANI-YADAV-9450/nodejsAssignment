@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "ashwani",
+      "email": "ashwai@gmail.com",
+      "lastname": "Yadav",
+      "password": "jyfjfyfj"
+    },
+    {
+      "id": 2,
+      "fname": "Amresh",
+      "email": "amresh@gmail.com",
+      "lastname": "sharma",
+      "password": "gddg"
+    },
+    {
+      "id": 3,
+      "fname": "Ashihs",
+      "email": "ashish@gmail.com",
+      "lastname": "Kushwaha",
+      "password": "fdg"
+    },
+    {
+      "id": 4,
+      "fname": "Tabrej",
+      "email": "tabrej@gmail.com",
+      "lastname": "Ansari",
+      "password": "jyfjfyfj"
+    },
+    {
+      "id": 5,
+      "fname": "Harsh",
+      "email": "harsh@gmail.com",
+      "lastname": "Pandey",
+      "password": "jyfjfyfj"
+    },
+    {
+      "id": 6,
+      "fname": "deepak",
+      "email": "deepak@gmail.com",
+      "lastname": "tiwari",
+      "password": "afagag"
+    }
+  ]
+}
